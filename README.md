@@ -10,9 +10,9 @@ But wait !! **what are Unix pipes?**
 ---
 ### Short to say ...
 -   Unix pipes are an IPC (Inter Process Communication) mechanism, that forwards the output of one program to the input of another program.
-Moreover in a deeper meaning ...
+  Moreover in a deeper meaning ...
 - Unix pipes are an IPC (Inter Process Communication) mechanism that takes the  `stdout`  of a program and forwards that to the  `stdin`  of another program via a buffer.
-Much better, You can look at the following diagram to understand how pipe works:
+  Much better, You can look at the following diagram to understand how pipe works:
 ![](https://linuxhandbook.com/content/images/2020/09/pipe-redirection.png)
 
 ---
