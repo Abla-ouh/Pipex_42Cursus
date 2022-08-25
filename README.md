@@ -1,4 +1,4 @@
-#  LET'S IMPLEMENT A PIPE :)
+<h1 align="center" > LET'S IMPLEMENT A PIPE :) </h1>
 
 Hi! You might have used a syntax like `cmd0 | cmd1` in your terminal quite too many times. 
 You probably also know that it is pipe redirection which is used for redirecting output of one command as input to the next command.
