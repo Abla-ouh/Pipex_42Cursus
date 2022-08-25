@@ -7,10 +7,10 @@ You probably also know that it is pipe redirection which is used for redirecting
 ### !NOTE :
 Because of 42 School norm requirements:
 
-All variables are declared and aligned at the top of each function
-Each function can't have more then 25 lines of code
-C++ style code commenting is forbidden
-Project should be created just with allowed functions otherwise it's cheating.
+- All variables are declared and aligned at the top of each function
+- Each function can't have more then 25 lines of code
+- C++ style code commenting is forbidden
+- Project should be created just with allowed functions otherwise it's cheating.
 
 ---
 # Preamble :
