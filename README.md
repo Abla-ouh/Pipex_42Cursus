@@ -4,7 +4,7 @@ Hi! You might have used a syntax like `cmd0 | cmd1` in your terminal quite too m
 You probably also know that it is pipe redirection which is used for redirecting output of one command as input to the next command.
 
 ---
-### !NOTE
+### !NOTE :
 Because of 42 School norm requirements:
 
 All variables are declared and aligned at the top of each function
