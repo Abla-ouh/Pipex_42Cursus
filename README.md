@@ -2,7 +2,16 @@
 
 Hi! You might have used a syntax like `cmd0 | cmd1` in your terminal quite too many times. 
 You probably also know that it is pipe redirection which is used for redirecting output of one command as input to the next command.
+---
+### !note
+!NOTE
+Because of 42 School norm requirements:
 
+All variables are declared and aligned at the top of each function
+Each function can't have more then 25 lines of code
+C++ style code commenting is forbidden
+Project should be created just with allowed functions otherwise it's cheating.
+---
 # Preamble :
 The purpose of this project is to simulate UNIX mechanism - pipe.
 But wait !! **what are Unix pipes?**
